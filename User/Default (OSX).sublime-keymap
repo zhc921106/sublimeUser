@@ -1,0 +1,5 @@
+[
+    { "keys": ["f1"], "command": "run_quick_simulator"},
+    { "keys": ["alt+s"], "command": "sublime_simple_sync"},
+	{ "keys": ["alt+shift+s"], "command": "sublime_simple_sync_path"},
+]

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+dump("ocean---dump----${1:this}",${2:snippet})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>od</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.lua</scope>
+	<description>Dump Snippet</description>
+</snippet>
